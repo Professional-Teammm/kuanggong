@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>iii/break.png</file>
+        <file>iii/miner_init.png</file>
+        <file>iii/miner_down.png</file>
+        <file>iii/miner_up.png</file>
+        <file>iii/begin_background.png</file>
+        <file>iii/continue.png</file>
+        <file>iii/start.png</file>
+        <file>iii/cursor.png</file>
+        <file>iii/-.png</file>
+        <file>iii/+.png</file>
+        <file>iii/big_mine.png</file>
+        <file>iii/diamond.png</file>
+        <file>iii/hook.png</file>
+        <file>iii/small_mine.png</file>
+        <file>iii/time.png</file>
+        <file>iii/background.png</file>
+        <file>iii/background.jpg</file>
+        <file>iii/rule.png</file>
+        <file>iii/exit.png</file>
+        <file>iii/title-money.png</file>
+        <file>iii/title-time.png</file>
+        <file>iii/reset.png</file>
+        <file>iii/restart.png</file>
+        <file>iii/bag.png</file>
+        <file>iii/end_background.jpg</file>
+        <file>1.ico</file>
+        <file>iii/icon.png</file>
+    </qresource>
+</RCC>
