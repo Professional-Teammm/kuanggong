@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shop_image/background.png</file>
+        <file>shop_image/bomb.png</file>
+        <file>shop_image/clock.png</file>
+        <file>shop_image/clover.png</file>
+        <file>shop_image/energy_drink.png</file>
+        <file>shop_image/polish.png</file>
+        <file>shop_image/rope.png</file>
+        <file>shop_image/tnt.png</file>
+        <file>shop_image/background.jpg</file>
+        <file>shop_image/shelf.png</file>
+        <file>shop_image/background.jpeg</file>
+        <file>shop_image/title-money.png</file>
+    </qresource>
+</RCC>
